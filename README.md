@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-I'm Henning, a dedicated student on the path to becoming a skilled data analyst. 📊 I have a strong focus on learning SQL and Python 🐍, and I'm passionate about turning raw data into meaningful insights. Here's a little more about me:
+I'm Henning, a recent boot camp graduate on the path to becoming a skilled data analyst. 📊 I have a strong focus on learning SQL and Python 🐍, and I'm passionate about turning raw data into meaningful insights. Here's a little more about me:
 
 ## 📚 About Me
 
