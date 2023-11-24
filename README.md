@@ -5,8 +5,8 @@ I'm Henning, a dedicated student on the path to becoming a skilled data analyst.
 ## 📚 About Me
 
 - 🎓 Currently, I'm pursuing the path to become a data analyst and building a career in the fascinating world of data manipulation, analysis, and visualization.
-- 💼 In my previous role at a Performance Rights Organization (PRO), I first got in touch in working with data I was responsible for data entry, data cleaning, updates, and quality checks, working with their proprietary RDBMS, that manages the music catalog that the PRO licenses. This experience has sparked my interest in data and pursuing career in data analytics.
-- 🌱 I'm continuously expanding my knowledge and skills in data science, with a particular interest in machine learning and data-driven decision-making.
+- 💼 In my previous role at a Performance Rights Organization (PRO), I first gained hands-on experience working with data. I was responsible for data entry, data cleaning, updates, and quality checks, working with their proprietary RDBMS that manages the music catalog the PRO licenses. This experience sparked my interest in data and encouraged me to pursue a career in data analytics.
+- 🌱 I'm continually expanding my knowledge and skills in data analytics by exploring all the diverse approaches to deriving meaningful insights.
   
 ## 🚀 What You'll Find Here
 
