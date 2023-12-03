@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-I'm Henning, a recent boot camp graduate on the path to becoming a skilled data analyst. 📊 I have a strong focus on learning SQL and Python 🐍, and I'm passionate about turning raw data into meaningful insights. Here's a little more about me:
+I'm Henning, a recent boot camp graduate on the path to becoming a skilled data analyst. 📊 I have a strong focus on learning SQL and Python, and I'm passionate about turning raw data into meaningful insights 🔮. Here's a little more about me:
 
 ## 📚 About Me
 
@@ -13,6 +13,6 @@ I'm Henning, a recent boot camp graduate on the path to becoming a skilled data 
 You'll discover a collection of projects showcasing my journey and growth as a data analyst. These projects will cover a range of topics, including:
 
 - 🐍 **Python Code**: I'll be sharing Python scripts and notebooks to demonstrate my programming abilities.
-- 📊 **Data Visualizations**: Expect captivating visualizations that breathe life into data.
+- 🕵️‍♂️ **Data Visualizations**: Expect captivating visualizations that breathe life into data.
 - 🤖 **Machine Learning**: I look forward to the exciting journey of acquiring machine learning expertise in the near future.
 - 📈 **Data Insights**: Insights and analyses that shed light on various datasets, helping us uncover hidden patterns and valuable information.
