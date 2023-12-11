@@ -17,4 +17,8 @@ You'll discover a collection of projects showcasing my journey and growth as a d
 - 🤖 **Machine Learning**: I look forward to the exciting journey of acquiring machine learning expertise in the near future.
 - 📈 **Data Insights**: Insights and analyses that shed light on various datasets, helping us uncover hidden patterns and valuable information.
 
-<a rel="me" href="https://datasci.social/@HFMB">Mastodon</a>
+## 🔍 Where You Can Find Me
+
+- 🐘 <a rel="me" href="https://datasci.social/@HFMB">**Mastodon**</a>
+- 👨🏼‍💼 **[LinkedIn](https://www.linkedin.com/in/hf-mb/)https://www.linkedin.com/in/hf-mb/**
+- 🗃️ **[Kaggle](https://www.kaggle.com/hefimb)https://www.kaggle.com/hefimb**
