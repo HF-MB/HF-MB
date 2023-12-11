@@ -16,3 +16,5 @@ You'll discover a collection of projects showcasing my journey and growth as a d
 - 🕵️‍♂️ **Data Visualizations**: Expect captivating visualizations that breathe life into data.
 - 🤖 **Machine Learning**: I look forward to the exciting journey of acquiring machine learning expertise in the near future.
 - 📈 **Data Insights**: Insights and analyses that shed light on various datasets, helping us uncover hidden patterns and valuable information.
+
+<a rel="me" href="https://datasci.social/@HFMB">Mastodon</a>
