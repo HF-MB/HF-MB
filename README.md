@@ -19,6 +19,6 @@ You'll discover a collection of projects showcasing my journey and growth as a d
 
 ## 🔍 Where You Can Find Me
 
-- 🐘 <a rel="me" href="https://datasci.social/@HFMB">**Mastodon**</a>
+- 🦋 **[Bluesky](https://bsky.app/profile/hfmb.bsky.social)** 
 - 👨🏼‍💼 **[LinkedIn](https://www.linkedin.com/in/hf-mb/)**
 - 🗃️ **[Kaggle](https://www.kaggle.com/hefimb)**
